@@ -1,0 +1,12 @@
+streamlit
+langgraph
+langchain-core
+langchain-google-genai
+google-genai
+chromadb
+pymupdf
+python-docx
+pytesseract
+pillow
+python-dotenv
+pandas
